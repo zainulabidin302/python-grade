@@ -12,3 +12,7 @@ A directory containing all the attempts is stored on the disk.
 Max attemps can be controlled.
 
 Last attempt date time is stamp on the directory with email address in the directory name.
+
+
+# How to run this server
+`flask run` (for development purposes)
